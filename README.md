@@ -9,7 +9,7 @@ This project is a simple neural network built using Keras to classify handwritte
 - Achieved ~98% accuracy on test data
 
 ## 📊 Dataset
-- Source: [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+- Source: Inbuilt Dataset
 - Shape: 60,000 training images, 10,000 test images
 - Each image: 28x28 grayscale pixel matrix
 
